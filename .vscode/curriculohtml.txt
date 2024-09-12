@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <div id="container">
+        <div id="esquerdo">
+            <div id="<img src="imagemcurriculo.png" alt="png">"></div>
+            
+            <h1>Contato</h1>
+            <div>(12) 3456-7890</div>
+            <div>@grandesite</div>
+            <div>ola.grandesite.com.br</div>
+
+            <h2>Formação</h2>
+            <p1><strong>Pedagogia</strong>
+                <p>Instituto Ferderal de São Paulo - IFSP</p>
+                <p2><strong>Administração</strong>
+                <p>Senac</p>
+                <p3><strong>Pedagogia</strong>
+                <p>Unopar</p>
+                            </p3>
+                     </p2>
+                </p1>
+        </div>
+        <div id="direito">
+            <header>
+                <h1>Michele Dias</h1>
+            </header>
+            <h2>Sobre mim</h2>
+            <p1>jhvuihiuhuu</p1>
+        </div>
+    </div>
+</body>
+</html>

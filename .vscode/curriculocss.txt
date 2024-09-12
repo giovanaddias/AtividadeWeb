@@ -1,0 +1,18 @@
+#container{
+    background-color: steelblue;
+    border: solid 3px black;
+    width: 1400px;
+    height: 100vh;
+    display: flex;
+    margin: auto;
+}
+#esquerdo{
+    background-color: #d9d9d9;
+    width: 560px;
+    height: 100vh;
+}
+#direito{
+    background-color: white;
+    width: 840px;
+    height: 100vh;
+}

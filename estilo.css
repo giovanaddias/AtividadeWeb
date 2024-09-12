@@ -1,0 +1,30 @@
+#container{
+    background-color: steelblue;
+    border: solid 3px black;
+    width: 1400px;
+    height: 100vh;
+    display: flex;
+    margin: auto;
+
+
+}
+#esquerdo{
+    background-color: #d9d9d9;
+    width: 560px;
+    height: 100vh;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+#direito{
+    background-color: white;
+    width: 840px;
+    height: 100vh;
+}
+#icon{
+    width: 20;
+    height: 20;
+    border-radius: 50%;
+    object-fit: cover;
+}
